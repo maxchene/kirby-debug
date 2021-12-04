@@ -2,7 +2,7 @@
   "name": "kaliel/kirby-debug",
   "description": "Provides 2 debug functions to help you in development",
   "version": "1.0.0",
-  "license": "GNU",
+  "license": "MIT",
   "require": {
     "php": ">=7.2"
   },
