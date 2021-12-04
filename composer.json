@@ -3,6 +3,7 @@
   "description": "Provides 2 debug functions to help you in development",
   "version": "1.0.0",
   "license": "MIT",
+  "type": "kirby-plugin",
   "require": {
     "php": ">=7.2",
     "getkirby/composer-installer": "^1.2"
