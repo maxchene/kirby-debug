@@ -1,2 +1,2 @@
-# kirby-debug
-Simple debug for Kirby CMS
+# Kirby CMS debug plugin
+Simple and lightweight  debug for Kirby CMS

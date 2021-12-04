@@ -1,0 +1,15 @@
+{
+  "name": "kaliel/kirby-debug",
+  "description": "Provides 2 debug functions to help you in development",
+  "version": "1.0.0",
+  "license": "GNU",
+  "require": {
+    "php": ">=7.2"
+  },
+  "authors": [
+    {
+      "name": "kaliel",
+      "email": "maxime@kaliel.fr"
+    }
+  ]
+}
