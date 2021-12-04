@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "require": {
-    "php": ">=7.2"
+    "php": ">=7.2",
+    "getkirby/composer-installer": "^1.2"
   },
   "authors": [
     {
