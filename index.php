@@ -2,9 +2,9 @@
 
 function debug($var): void
 {
-    echo '<pre>';
+    echo '<code>';
     var_dump($var);
-    echo '</pre>';
+    echo '</code>';
 }
 
 function dd($var): void
